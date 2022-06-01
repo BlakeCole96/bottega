@@ -1,0 +1,25 @@
+.main-body-image {
+    height: 565px;
+    float: right;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main-body {
+    background-color: rgb(34, 35, 36);
+    height: 560px;
+    padding: 10px;
+}
+
+.paragraph-wrapper {
+    color: white;
+    height: 300px;
+    font-size: larger;
+}
+
+.paragraph-wrapper p {
+    color: white;
+    height: 100px;
+    font-size: larger;
+    font-family: 'Roboto Condensed', sans-serif;
+}

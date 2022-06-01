@@ -1,0 +1,26 @@
+{
+        .box-sizing: border-box;
+    }
+
+    .column {
+        float: left;
+        width: 25%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .row:after {
+        display: table;
+        clear: both;
+    }
+
+    .row {
+        color: white;
+        background-color: rgb(107, 103, 103);
+
+    }
+
+    .footer-wrapper {
+        height: 200px;
+        background-color: black;
+    }
